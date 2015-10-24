@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week23Day3</string>
+    <string name="name">Input your name.</string>
+    <string name="surname">Input your surname.</string>
+    <string name="add_person">Add a person.</string>
+    <string name="edit_person">Edit Person</string>
+</resources>
